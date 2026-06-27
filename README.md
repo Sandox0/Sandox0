@@ -1,28 +1,15 @@
-# hey, I'm Felip
+<div align="center">
 
-Arch Linux user and self-taught developer from Venezuela.
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="280"/>
 
----
+### sandox
 
-## about me
+arch linux + hyprland &nbsp;|&nbsp; fighting games &nbsp;|&nbsp; osu! &nbsp;|&nbsp; venezuela
 
-- Fighting games lover
-- osu! player
-- tinkering with Linux configs
+&nbsp;
 
----
+[![dotfiles](https://img.shields.io/badge/dotfiles-arch--dotfiles-6b8cad?style=flat-square&logo=github)](https://github.com/Sandox0/arch-dotfiles)
+[![youtube](https://img.shields.io/badge/youtube-Sandox032-6b8cad?style=flat-square&logo=youtube)](https://www.youtube.com/@Sandox032)
+[![x](https://img.shields.io/badge/x-sandox017-6b8cad?style=flat-square&logo=x)](https://x.com/sandox017)
 
-## setup
-
-- OS: Arch Linux
-- WM: Hyprland
-- Editor: VSCode
-- Browser: Firefox
-
----
-
-## links
-
-- [arch-dotfiles](https://github.com/Sandox0/arch-dotfiles) — my hyprland configuration
-- [YouTube](https://www.youtube.com/@Sandox032)
-- [X](https://x.com/sandox017)
+</div>
