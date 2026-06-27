@@ -4,7 +4,7 @@
 
 ### sandox
 
-arch linux + hyprland &nbsp;|&nbsp; fighting games &nbsp;|&nbsp; osu! &nbsp;|&nbsp; venezuela
+i use arch btw &nbsp;|&nbsp; fighting games &nbsp;|&nbsp; venezuela
 
 &nbsp;
 
