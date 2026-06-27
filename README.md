@@ -1,16 +1,28 @@
-## Hi there 👋
+# hey, I'm Felip
 
-<!--
-**Sandox0/Sandox0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arch Linux user and self-taught developer from Venezuela.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+
+- Fighting games lover
+- osu! player
+- tinkering with Linux configs
+
+---
+
+## setup
+
+- OS: Arch Linux
+- WM: Hyprland
+- Editor: VSCode
+- Browser: Firefox
+
+---
+
+## links
+
+- [arch-dotfiles](https://github.com/Sandox0/arch-dotfiles) — my hyprland configuration
+- [YouTube](https://www.youtube.com/@Sandox032)
+- [X](https://x.com/sandox017)
