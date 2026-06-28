@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github-readme-utils.vercel.app/api/gif/anime/funny" width="280"/>
-<img src="https://github-readme-utils.vercel.app/api/gif/anime/random" width="280"/>
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="280"/>
 
 ### sandox
 
