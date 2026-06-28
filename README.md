@@ -3,7 +3,7 @@
 
 ### sandox
 
-i use arch btw &nbsp;|&nbsp; fighting games &nbsp;|&nbsp; venezuela
+i use arch btw &nbsp;|&nbsp; i like turtles &nbsp;|&nbsp; venezuela
 
 &nbsp;
 
