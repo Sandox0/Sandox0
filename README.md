@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="280"/>
+<img src="https://readme-typing-svg.demolab.com" width="280"/>
 
 ### sandox
 
