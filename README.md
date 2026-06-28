@@ -1,15 +1,22 @@
+cat > ~/dotfiles/README.md << 'EOF'
 <div align="center">
-
 <img src="https://github-readme-utils.vercel.app/api/gif/anime" width="280"/>
 
-### sandox
+### felip
 
 i use arch btw &nbsp;|&nbsp; fighting games &nbsp;|&nbsp; venezuela
 
 &nbsp;
 
-[![dotfiles](https://img.shields.io/badge/dotfiles-arch--dotfiles-6b8cad?style=flat-square&logo=github)](https://github.com/Sandox0/arch-dotfiles)
-[![youtube](https://img.shields.io/badge/youtube-Sandox032-6b8cad?style=flat-square&logo=youtube)](https://www.youtube.com/@Sandox032)
-[![x](https://img.shields.io/badge/x-sandox017-6b8cad?style=flat-square&logo=x)](https://x.com/sandox017)
+![Python](https://img.shields.io/badge/Python-6b8cad?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6b8cad?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6b8cad?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6b8cad?style=flat-square&logo=javascript&logoColor=white)
 
 </div>
+EOF
+
+cd ~/dotfiles
+git add README.md
+git commit -m "Update README with languages"
+git push
